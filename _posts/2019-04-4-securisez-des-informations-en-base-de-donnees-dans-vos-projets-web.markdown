@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sécuriser des informations de votre base de données dans vos projets Rails 6 avec attr_encrypted"
+title:  "Sécurisez des informations de votre base de données dans vos projets Rails 6 avec attr_encrypted"
 date:   2019-04-03 13:37:00 -0500
 categories: rails heroku database
 ---
