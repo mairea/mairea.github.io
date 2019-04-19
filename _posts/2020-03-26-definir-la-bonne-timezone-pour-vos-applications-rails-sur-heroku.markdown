@@ -15,7 +15,7 @@ Pour remédier à cela, il suffit de préciser à heroku la bonne timezone à ut
 pour votre application.
 
 {% highlight ruby %}
-heroku add:config TZ="America/Toronto" --app votre_application
+heroku config:add TZ="America/Toronto" --app votre_application
 {% endhighlight %}
 
 A noter qu'il n'est pas nécessaire de configurer votre application rails avec une
