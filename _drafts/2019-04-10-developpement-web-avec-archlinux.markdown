@@ -28,8 +28,7 @@ La documentation est claire et la communauté très aidante. Plusieurs paquets s
 Pour l'environnement graphique j'utilise Gnome. Il en existe beacoup mais je trouve que bureau vraiment très pratique et il permet de gagner
 en rapidité. Notamment avec la touche Super (windows), on peut changer de programme ou en executer un nouveau assez rapidement.
 
-Pour l'installation des programmes, j'utilise **yaourt** principalement mais également Flatpak ou Snap ou Gnome software en fonction de
-la disponibilité des programmes. De plus en plus, les éditeurs de logiciel propose leurs logiciels pour linux.
+Pour l'installation des programmes, j'utilise **yaourt** principalement mais également Flatpak ou Snap ou Gnome software en fonction de la disponibilité des programmes. De plus en plus, les éditeurs de logiciel propose leurs logiciels pour linux.
 
 ## Logiciels
 
